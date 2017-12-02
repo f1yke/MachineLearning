@@ -1,6 +1,8 @@
-from lesson1 import Util
 import random
+
 import numpy as np
+
+from lesson1 import Util
 
 
 def getPerceptron(N):
